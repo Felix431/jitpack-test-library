@@ -1,0 +1,8 @@
+--module-path 'E:\\Geodäsie & Geoinformation\\Master\\Semester 7\\PLIMOS\\opendrive2citgmlade-transformer\\testing-folder\\jitpack-test-library\\build\\classes\\java\\main'
+-d 'E:\\Geodäsie & Geoinformation\\Master\\Semester 7\\PLIMOS\\opendrive2citgmlade-transformer\\testing-folder\\jitpack-test-library\\build\\docs\\javadoc'
+-doctitle 'jitpack-test-library 1.0 API'
+-notimestamp 
+-quiet 
+-windowtitle 'jitpack-test-library 1.0 API'
+'E:\\Geodäsie & Geoinformation\\Master\\Semester 7\\PLIMOS\\opendrive2citgmlade-transformer\\testing-folder\\jitpack-test-library\\src\\main\\java\\module-info.java'
+'E:\\Geodäsie & Geoinformation\\Master\\Semester 7\\PLIMOS\\opendrive2citgmlade-transformer\\testing-folder\\jitpack-test-library\\src\\main\\java\\org\\printer\\Printer.java'
